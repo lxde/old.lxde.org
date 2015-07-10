@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://lxde.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>LXDE.org</title>
+ <link>http://lxde.org</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LXDE</title>
+ <link>http://lxde.org/pt-br/lxde</link>
+ <description>&lt;p&gt;O &quot;Lightweight X11 Desktop Environment&quot;, é um ambiente de área de trabalho extremamente rápido, ágil e poupador de energia. Ele é mantido por uma comunidade internacional de desenvolvedores e vem com uma bonita interface com o usuário, suporte a múltiplos idiomas, atalhos de teclado padrões e características adicionais, como um gerenciador de arquivos com navegação em abas. O LXDE exige menos da CPU e consome menos memória RAM. Ele é desenhado especialmente para computadores em nuvem com especificações de hardware limitadas, como netbooks, dispositivos móveis (ex.: MIDs) ou computadores antigos. O LXDE pode ser instalado em distribuições como Ubuntu ou Debian. Ele provê uma rápida interação com o desktop, conectando-se facilmente com aplicativos na nuvem. O LXDE suporta uma gama enorme de programas, que podem ser instalados localmente com os sistemas Linux. O código-fonte do LXDE está licenciado parcialmente sob os termos da &lt;a href=&quot;http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt&quot;&gt;Licença Pública Geral (GPL)&lt;/a&gt; e parcialmente sob a LGPL.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://lxde.org/pt-br/lxde&quot; target=&quot;_blank&quot;&gt;leia mais&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Mon, 08 Jun 2009 04:48:50 +0000</pubDate>
+ <dc:creator>zehrique</dc:creator>
+ <guid isPermaLink="false">26 at http://lxde.org</guid>
+</item>
+</channel>
+</rss>

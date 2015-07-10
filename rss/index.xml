@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://lxde.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>LXDE.org</title>
+ <link>http://lxde.org</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>LXDE</title>
+ <link>http://lxde.org/lxde</link>
+ <description>The &quot;Lightweight X11 Desktop Environment&quot; is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the &lt;a href=&quot;http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt&quot;&gt;GNU General Public License&lt;/a&gt; and partly under the LGPL.
+&lt;p&gt;&lt;a href=&quot;http://lxde.org/lxde&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Tue, 26 Aug 2008 14:46:42 +0000</pubDate>
+ <dc:creator>Ming-Ting Wei</dc:creator>
+ <guid isPermaLink="false">1 at http://lxde.org</guid>
+</item>
+</channel>
+</rss>

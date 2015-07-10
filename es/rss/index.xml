@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://lxde.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>LXDE.org</title>
+ <link>http://lxde.org</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>LXDE</title>
+ <link>http://lxde.org/es/lxde</link>
+ <description>&quot;Lightweight X11 Desktop Environment&quot; (Entorno de Escritorio X11 Liviano), es un entorno de escritorio extremadamente rápido, ágil y ahorrador de energía. Trae una interfaz agradable al usuario, soporte multi-idioma , atajos de teclado estándar, características adicionales como navegación por pestañas y es mantenido por una comunidad internacional de desarrolladores. LXDE utiliza menos CPU y consume menos memoria RAM.  Está especialmente diseñado para computadoras con especificaciones de hardware limitadas como netbooks, dispositivos móviles (ej. MIDs) o computadoras antiguas. LXDE puede ser instalado en distribuciones como Ubuntu o Debian. Proporciona una experiencia de escritorio rápida conectando fácilmente con aplicaciones en la nube. LXDE soporta una gran cantidad de programas, que pueden ser instalados localmente con sistemas Linux.  El código fuente de LXDE está licenciado parcialmente bajo los términos de la &lt;a href=&quot;http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt&quot;&gt;Licencia Pública General (GPL)&lt;/a&gt; y parcialmente bajo la LGPL.
+&lt;p&gt;&lt;a href=&quot;http://lxde.org/es/lxde&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Wed, 23 Sep 2009 04:55:12 +0000</pubDate>
+ <dc:creator>Ming-Ting Wei</dc:creator>
+ <guid isPermaLink="false">34 at http://lxde.org</guid>
+</item>
+</channel>
+</rss>

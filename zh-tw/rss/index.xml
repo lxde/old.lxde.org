@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://lxde.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>LXDE.org</title>
+ <link>http://lxde.org</link>
+ <description></description>
+ <language>zh-hant</language>
+<item>
+ <title>LXDE</title>
+ <link>http://lxde.org/zh-tw/lxde</link>
+ <description>LXDE 的全名是 「Lightweight X11 Desktop Environment - 輕量級 X11 桌面環境」，它是由國際社群開發者共同維護，同時具備高效能以及節能兩大特點之桌面環境。它具備優美的介面，支援多國語言，標準鍵盤快捷鍵以及其他諸如分頁瀏覽檔案等功能。LXDE 使用少量的 CPU 以及記憶體資源，而且特別適合使用於 Netbook （小筆電），MID（行動上網裝置）以及比較老舊的電腦。LXDE 可以安裝在如 Ubuntu 或是 Debian 的 Linux 發行版上，而原本裝在上面的程式也可以在 LXDE 上正常運作。LXDE 原始碼以 &lt;a href=&quot;http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt&quot;&gt;GNU GPL（通用公共授權）&lt;/a&gt; 或是 LGPL（寬鬆通用公共授權）釋出。
+&lt;p&gt;&lt;a href=&quot;http://lxde.org/zh-tw/lxde&quot; target=&quot;_blank&quot;&gt;閱讀全文&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://lxde.org/zh-tw/lxde#comments</comments>
+ <pubDate>Fri, 05 Dec 2008 07:38:40 +0000</pubDate>
+ <dc:creator>Ming-Ting Wei</dc:creator>
+ <guid isPermaLink="false">22 at http://lxde.org</guid>
+</item>
+</channel>
+</rss>
